@@ -38,7 +38,7 @@ No Server Needed: This project is purely static, so no server setup is required.
 
 ---
 
-##📖 How to Use
+##   📖 How to Use
 Open the App: Launch the application in your browser. 🌐 <br>
 Add a Task: Type a task in the input field and click Add Task. 🖊️<br>
 Mark as Complete: Click on any task to toggle its completion status (it will be struck through). 🏆<br>
@@ -49,7 +49,7 @@ This is a basic implementation, and we encourage other developers to improve the
 
 ---
 
-##🎨 Improved Styling: Add stylish animations, transitions, or interactive elements.<br>
+##   🎨 Improved Styling: Add stylish animations, transitions, or interactive elements.<br>
 🌗 Themes: Implement dark/light mode toggle for a better user experience.<br>
 🔴 Task Priorities: Add options to mark tasks with different priority levels or color coding.<br>
 🧳 Drag-and-Drop: Allow users to reorder tasks by dragging and dropping them.<br>
@@ -60,16 +60,16 @@ Feel free to fork this project, submit pull requests, and share any improvements
 
 ---
 
-##👩‍💻 Contributing
+##   👩‍💻 Contributing
 If you'd like to contribute to the project, please follow these steps:
-
+--
 Fork the repository 🍴<br>
 Create a new branch for your feature or fix 🔧<br>
 Make your changes and commit them with clear, concise messages ✍️<br>
 Push your changes to your forked repository ⬆️<br>
 Submit a pull request to the main repository 🙏<br>
 We appreciate any help in improving this app! 💖<br>
-
+--
 ---
-###📝 License
+###   📝 License
 This project is open-source and available under the MIT License. 🌱
