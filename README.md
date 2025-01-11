@@ -30,7 +30,7 @@ Follow the steps below to run the project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git
+   git clone https://github.com/deep.45deepak/TODO-App.git
 
 Open the Project: Navigate to the folder where you cloned the project and open index.html in your browser.
 
