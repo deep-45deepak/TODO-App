@@ -39,37 +39,36 @@ No Server Needed: This project is purely static, so no server setup is required.
 ---
 
 ##📖 How to Use
-Open the App: Launch the application in your browser. 🌐
-Add a Task: Type a task in the input field and click Add Task. 🖊️
-Mark as Complete: Click on any task to toggle its completion status (it will be struck through). 🏆
-Delete a Task: Click the Delete button next to any task to remove it from the list. 🗑️
-Data Persistence: The tasks are saved automatically in the browser's local storage, so they persist even after you refresh the page. 🔁
-✨ Enhancing the UI and Frontend
-This is a basic implementation, and we encourage other developers to improve the UI and frontend! 🙌 Here are some ideas for enhancements:
+Open the App: Launch the application in your browser. 🌐 <br>
+Add a Task: Type a task in the input field and click Add Task. 🖊️<br>
+Mark as Complete: Click on any task to toggle its completion status (it will be struck through). 🏆<br>
+Delete a Task: Click the Delete button next to any task to remove it from the list. 🗑️<br>
+Data Persistence: The tasks are saved automatically in the browser's local storage, so they persist even after you refresh the page. 🔁<br>
+✨ Enhancing the UI and Frontend<br>
+This is a basic implementation, and we encourage other developers to improve the UI and frontend! 🙌 Here are some ideas for enhancements:<br>
 
 ---
 
-🎨 Improved Styling: Add stylish animations, transitions, or interactive elements.
-🌗 Themes: Implement dark/light mode toggle for a better user experience.
-🔴 Task Priorities: Add options to mark tasks with different priority levels or color coding.
-🧳 Drag-and-Drop: Allow users to reorder tasks by dragging and dropping them.
-📅 Due Dates: Implement the ability to set due dates for tasks.
-📊 Progress Bar: Add a progress bar to show how many tasks are completed vs. remaining.
-📱 Mobile Optimization: Ensure the app is fully responsive and works well on smaller screens.
-Feel free to fork this project, submit pull requests, and share any improvements you make! 🔥
+##🎨 Improved Styling: Add stylish animations, transitions, or interactive elements.<br>
+🌗 Themes: Implement dark/light mode toggle for a better user experience.<br>
+🔴 Task Priorities: Add options to mark tasks with different priority levels or color coding.<br>
+🧳 Drag-and-Drop: Allow users to reorder tasks by dragging and dropping them.<br>
+📅 Due Dates: Implement the ability to set due dates for tasks.<br>
+📊 Progress Bar: Add a progress bar to show how many tasks are completed vs. remaining.<br>
+📱 Mobile Optimization: Ensure the app is fully responsive and works well on smaller screens.<br>
+Feel free to fork this project, submit pull requests, and share any improvements you make! 🔥<br>
 
 ---
 
 ##👩‍💻 Contributing
 If you'd like to contribute to the project, please follow these steps:
 
-Fork the repository 🍴
-Create a new branch for your feature or fix 🔧
-Make your changes and commit them with clear, concise messages ✍️
-Push your changes to your forked repository ⬆️
-Submit a pull request to the main repository 🙏
-We appreciate any help in improving this app! 💖
-
+Fork the repository 🍴<br>
+Create a new branch for your feature or fix 🔧<br>
+Make your changes and commit them with clear, concise messages ✍️<br>
+Push your changes to your forked repository ⬆️<br>
+Submit a pull request to the main repository 🙏<br>
+We appreciate any help in improving this app! 💖<br>
 
 ---
 ###📝 License
