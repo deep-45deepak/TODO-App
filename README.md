@@ -63,12 +63,12 @@ Feel free to fork this project, submit pull requests, and share any improvements
 ##   👩‍💻 Contributing <br>
 ###   If you'd like to contribute to the project, please follow these steps:
    --
-   Fork the repository 🍴<br>
-   Create a new branch for your feature or fix 🔧<br>
-   Make your changes and commit them with clear, concise messages ✍️<br>
-   Push your changes to your forked repository ⬆️<br>
-   Submit a pull request to the main repository 🙏<br>
-   We appreciate any help in improving this app! 💖<br>
+###    Fork the repository 🍴<br>
+###    Create a new branch for your feature or fix 🔧<br>
+###    Make your changes and commit them with clear, concise messages ✍️<br>
+###    Push your changes to your forked repository ⬆️<br>
+###    Submit a pull request to the main repository 🙏<br>
+###    We appreciate any help in improving this app! 💖<br>
 --
 ---
 ###   📝 License
